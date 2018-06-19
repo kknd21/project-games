@@ -10,7 +10,7 @@ http://azanghs.cafe24.com/js/gosu/othello/
 http://azanghs.cafe24.com/js/gosu/gallerg/  
 
 Project.1
-야구게임
+숫자야구게임
 18.6.19 - 18.6.23
 
 임의로 선택된 세자리 숫자를, 입력을 통해 추측해서 맞추는 게임
